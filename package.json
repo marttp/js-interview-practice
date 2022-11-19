@@ -1,0 +1,17 @@
+{
+  "name": "js-interview-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@datastructures-js/priority-queue": "^6.1.4",
+    "lodash": "^4.17.21"
+  }
+}
