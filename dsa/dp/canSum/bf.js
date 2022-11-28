@@ -1,3 +1,5 @@
+// canSum - Decision Problem
+
 export const canSum = (target, numbers) => {
   if (target === 0) return true;
   if (target < 0) return false;

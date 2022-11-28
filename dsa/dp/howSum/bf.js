@@ -1,3 +1,5 @@
+// howSum - Combinatoric Problem
+
 export const howSum = (target, numbers) => {
   if (target === 0) return [];
   if (target < 0) return null;
