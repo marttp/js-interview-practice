@@ -16,79 +16,41 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 
 ### Two-Pointers
 
----
-
 ### Sliding Windows
-
----
 
 ### String
 
----
-
 ### Linked List
-
----
 
 ### Fast & Slow Pointers
 
----
-
 ### Modified Binary Search
-
----
 
 ### Stack & Queue
 
----
-
 ### Monotonic Stack
-
----
 
 ### Backtracking
 
----
-
 ### Merge Interval
-
----
 
 ### Cyclic Sort
 
----
-
 ### Top K Elements
-
----
 
 ### K-way Merge
 
----
-
 ### Tree - DFS
-
----
 
 ### Tree - BFS
 
----
-
 ### 2 Heaps
-
----
 
 ### Graph
 
----
-
 ### Union-Find
 
----
-
 ### Topological Sort
-
----
 
 ### Dynamic Programming
 
@@ -103,7 +65,5 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 #### Longest Common Subsequence (LCS)
 
 #### General
-
----
 
 ### Bitwise
