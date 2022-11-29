@@ -2,6 +2,11 @@
 
 Hi everyone, this repository is used for storing the solutions for Leetcode in Javascript. The support resources for my video playlist for support learners.
 
+## Video Playlist
+[![ไอต้าวแว่นทำ Leetcode - Tackle JS Special Editions](https://img.youtube.com/vi/pzRrWF7ko_I/0.jpg)](https://youtube.com/playlist?list=PLm3A9eDaMzukbLKitQWP_ydRmnQj8jpd9)
+
+
+
 ## Leetcode questions by pattern
 
 ---
@@ -9,7 +14,7 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 ### Array
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 
 ### Two-Pointers
