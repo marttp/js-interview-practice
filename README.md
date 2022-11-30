@@ -8,7 +8,7 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 
 ## Leetcode questions by pattern
 
-### Array
+### Array & HashTable
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
