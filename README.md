@@ -17,7 +17,10 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 - [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 
 ### Two-Pointers
-
+- [x] [Move Zeroes](https://leetcode.com/problems/two-sum/)
+- [ ] [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+- [ ] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 ### Sliding Windows
 
 ### String
