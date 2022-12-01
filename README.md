@@ -18,12 +18,19 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 
 ### Two-Pointers
 - [x] [Move Zeroes](https://leetcode.com/problems/two-sum/)
-- [ ] [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
-- [ ] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [x] [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+- [x] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 ### Sliding Windows
-
+- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [ ] [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
+- [ ] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) 
 ### String
+- [ ] [](https://leetcode.com/problems/valid-palindrome/)
+- [ ] [](https://leetcode.com/problems/valid-anagram/)
+- [ ] [](https://leetcode.com/problems/reverse-vowels-of-a-string/)
+- [ ] [](https://leetcode.com/problems/group-anagrams/)
+- [ ] [](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 
 ### Linked List
 
