@@ -25,7 +25,7 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 
 ### Sliding Windows
 
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
 - [ ] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
