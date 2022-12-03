@@ -27,7 +27,7 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 
 - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [x] [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
-- [ ] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+- [x] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
 ### String
 
