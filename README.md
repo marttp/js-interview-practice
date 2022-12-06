@@ -39,6 +39,12 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 
 ### Linked List
 
+- [x] [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+- [ ] [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+- [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+- [ ] [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
+- [ ] [LRU Cache](https://leetcode.com/problems/lru-cache/)
+
 ### Fast & Slow Pointers
 
 ### Modified Binary Search
