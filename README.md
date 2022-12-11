@@ -44,7 +44,7 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 - [x] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - [x] [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
 - [x] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-- [ ] [LRU Cache](https://leetcode.com/problems/lru-cache/)
+- [x] [LRU Cache](https://leetcode.com/problems/lru-cache/)
 
 ### Fast & Slow Pointers
 
