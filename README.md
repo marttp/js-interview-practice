@@ -43,7 +43,7 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 - [x] [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - [x] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - [x] [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
-- [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [x] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [ ] [LRU Cache](https://leetcode.com/problems/lru-cache/)
 
 ### Fast & Slow Pointers
