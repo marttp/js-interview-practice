@@ -55,9 +55,9 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 
 ### Modified Binary Search
 
-- [ ] []()
-- [ ] []()
-- [ ] []()
+- [ ] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+- [ ] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- [ ] [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
 
 
 ### Stack & Queue
