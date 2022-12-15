@@ -50,7 +50,7 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 
 - [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [x] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
-- [ ] [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+- [x] [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 - [ ] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
 ### Modified Binary Search
