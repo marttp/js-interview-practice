@@ -46,10 +46,10 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 - [x] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [x] [LRU Cache](https://leetcode.com/problems/lru-cache/)
 
-### Fast & Slow Point
+### Fast & Slow Pointers
 
 - [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-- [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [x] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [ ] [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 - [ ] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
