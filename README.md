@@ -59,45 +59,150 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 - [ ] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [ ] [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
 
-
 ### Stack & Queue
+
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
 
 ### Monotonic Stack
 
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+
 ### Backtracking
+
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
 
 ### Merge Interval
 
+- [ ] []()
+- [ ] []()
+- [ ] []()
+
 ### Cyclic Sort
+
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
 
 ### Top K Elements
 
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+
 ### K-way Merge
+
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
 
 ### Tree - DFS
 
+- [ ] []()
+- [ ] []()
+- [ ] []()
+
 ### Tree - BFS
+
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+
+## Trie
+
+- [ ] []()
+- [ ] []()
 
 ### 2 Heaps
 
+- [ ] []()
+- [ ] []()
+
 ### Graph
+
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
 
 ### Union-Find
 
+- [ ] []()
+- [ ] []()
+
 ### Topological Sort
+
+- [ ] []()
+- [ ] []()
 
 ### Dynamic Programming
 
 #### 0/1 Knapsack
 
+- [ ] []()
+- [ ] []()
+- [ ] []()
+
 #### Unbound Knapsack
+
+- [ ] []()
+- [ ] []()
 
 #### Fibonacci
 
+- [ ] []()
+- [ ] []()
+
 #### Longest Palindromic Subsequence (LPS)
+
+- [ ] []()
+- [ ] []()
+- [ ] []()
 
 #### Longest Common Subsequence (LCS)
 
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+
 #### General
 
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+
 ### Bitwise
+
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
