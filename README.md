@@ -56,7 +56,7 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 ### Modified Binary Search
 
 - [x] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
-- [ ] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- [x] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [ ] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 
 ### Stack & Queue
