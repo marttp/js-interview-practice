@@ -67,10 +67,10 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 
 ### Monotonic Stack
 
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
+- [ ] [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
+- [ ] [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)
+- [ ] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+- [ ] [Online Stock Span](https://leetcode.com/problems/online-stock-span/)
 
 ### Backtracking
 
