@@ -63,8 +63,7 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [x] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
-- [ ] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
-- [ ] [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+- [ ] [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game)
 
 ### Monotonic Stack
 
