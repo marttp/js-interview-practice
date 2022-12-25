@@ -9,10 +9,7 @@ var nextGreaterElements = function (nums) {
   const stack = [];
   for (let i = 0; i < doubleNums.length; i++) {
     // Monotonic condition control
-    while (
-      stack.length !== 0 &&
-      doubleNums[i] > doubleNums[stack[stack.length - 1]]
-    ) {
+    while (stack.length !== 0 && doubleNums[i] > doubleNums[stack[stack.length - 1]]) {
       const index = stack.pop() % length;
       result[index] = doubleNums[i];
     }
