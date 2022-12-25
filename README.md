@@ -69,7 +69,7 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 
 - [x] [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 - [x] [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)
-- [ ] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+- [x] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 - [ ] [Online Stock Span](https://leetcode.com/problems/online-stock-span/)
 
 ### Backtracking
