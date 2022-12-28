@@ -158,6 +158,14 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 - [ ] []()
 - [ ] []()
 
+### Minimum Spanning Tree
+
+- [ ] []()
+
+### Single-Source-Shortest Path
+
+- [ ] []()
+
 ### Dynamic Programming
 
 #### 0/1 Knapsack
