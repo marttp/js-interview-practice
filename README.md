@@ -88,7 +88,7 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 
 ### Cyclic Sort
 
-- [ ] []()
+- [ ] [Missing Number](https://leetcode.com/problems/missing-number/)
 - [ ] []()
 - [ ] []()
 - [ ] []()
