@@ -93,24 +93,6 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 - [ ] [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [ ] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 
-### Top K Elements
-
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-
-### K-way Merge
-
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-
 ### Tree - DFS
 
 - [ ] []()
@@ -127,6 +109,24 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 
 ## Trie
 
+- [ ] []()
+- [ ] []()
+
+### Top K Elements
+
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+
+### K-way Merge
+
+- [ ] []()
+- [ ] []()
 - [ ] []()
 - [ ] []()
 
