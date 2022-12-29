@@ -75,10 +75,10 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 ### Backtracking
 
 - [x] [Subsets](https://leetcode.com/problems/subsets/)
-- [ ] [Combination Sum](https://leetcode.com/problems/combination-sum/)
+- [x] [Permutations](https://leetcode.com/problems/permutations/)
+- [x] [Combination Sum](https://leetcode.com/problems/combination-sum/)
+- [x] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 - [ ] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
-- [ ] [Permutations](https://leetcode.com/problems/permutations/)
-- [ ] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 
 ### Merge Interval
 
