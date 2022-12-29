@@ -24,7 +24,7 @@ const backtracking = (candidates, index, result, remain, state) => {
     const n = candidates[i];
     // Move computation check before push to function call stack instead
     if (remain - n < 0) {
-      return;
+      continue;
     }
     state.push(n);
     // Constraint
