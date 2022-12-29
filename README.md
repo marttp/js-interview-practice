@@ -74,7 +74,7 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 
 ### Backtracking
 
-- [ ] [Subsets](https://leetcode.com/problems/subsets/)
+- [x] [Subsets](https://leetcode.com/problems/subsets/)
 - [ ] [Combination Sum](https://leetcode.com/problems/combination-sum/)
 - [ ] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 - [ ] [Permutations](https://leetcode.com/problems/permutations/)
