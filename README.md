@@ -82,7 +82,7 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 
 ### Merge Interval
 
-- [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
 - [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 
