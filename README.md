@@ -84,7 +84,7 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 
 - [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [x] [Insert Interval](https://leetcode.com/problems/insert-interval/)
-- [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+- [x] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 
 ### Cyclic Sort
 
