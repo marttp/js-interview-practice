@@ -94,26 +94,27 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 
 ### Tree - DFS
 
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
+- [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [ ] [Path Sum](https://leetcode.com/problems/path-sum/)
+- [ ] [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
+- [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+- [ ] [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+- [ ] [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+- [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
 ### Tree - BFS
 
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
+- [ ] [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+- [ ] [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
+- [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [ ] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+- [ ] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 
 ## Trie
 
-- [ ] []()
-- [ ] []()
+- [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+- [ ] [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
+- [ ] [Word Search II](https://leetcode.com/problems/word-search-ii/)
 
 ### Top K Elements
 
