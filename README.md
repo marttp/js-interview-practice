@@ -94,7 +94,7 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 
 ### Tree - DFS
 
-- [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [ ] [Path Sum](https://leetcode.com/problems/path-sum/)
 - [ ] [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
 - [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
