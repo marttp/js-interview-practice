@@ -98,7 +98,7 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 - [x] [Path Sum](https://leetcode.com/problems/path-sum/)
 - [x] [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
 - [x] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
-- [ ] [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+- [x] [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
 - [ ] [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
 - [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
