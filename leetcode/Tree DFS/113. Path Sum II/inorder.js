@@ -13,21 +13,23 @@
  */
 var pathSum = function (root, targetSum) {
   const result = [];
-  backtracking(root, targetSum, result, []);
+  traverse(root, targetSum, result);
   return result;
 };
 
-function backtracking(node, targetSum, result, tmpList) {
-  if (node === null) return;
-  // Add
+function isLeaf(node) {
+  return node.left === null && node.right === null;
+}
+
+function traverse(node, targetSum, result, tmpList = []) {
+  if (node === null) {
+    return;
+  }
   tmpList.push(node.val);
-  // Traverse Preorder/Inorder/Postorder
-  backtracking(node.left, targetSum - node.val, result, tmpList);
-  backtracking(node.right, targetSum - node.val, result, tmpList);
-  // Leaf condition
-  if (node.left === null && node.right === null && targetSum === node.val) {
+  traverse(node.left, targetSum - node.val, result, tmpList);
+  if (isLeaf(node) && targetSum === node.val) {
     result.push([...tmpList]);
   }
-  // Remove last
+  traverse(node.right, targetSum - node.val, result, tmpList);
   tmpList.pop();
 }
