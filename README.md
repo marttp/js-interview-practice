@@ -112,7 +112,7 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 
 ## Trie
 
-- [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+- [x] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [ ] [Replace Words](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
 - [ ] [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
 - [ ] [Word Search II](https://leetcode.com/problems/word-search-ii/)
