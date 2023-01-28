@@ -4,7 +4,7 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 
 ## Video Playlist
 
-[![ไอต้าวแว่นทำ Leetcode - Tackle JS Special Editions](https://img.youtube.com/vi/pzRrWF7ko_I/0.jpg)](https://youtube.com/playlist?list=PLm3A9eDaMzukbLKitQWP_ydRmnQj8jpd9)
+[![ไอต้าวแว่นทำ Leetcode - Tackle JS Special Editions](https://img.youtube.com/vi/IWZhdcGAXRA/1.jpg)](https://youtube.com/playlist?list=PLm3A9eDaMzukbLKitQWP_ydRmnQj8jpd9)
 
 ## Leetcode questions by pattern
 
