@@ -115,54 +115,56 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 - [x] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [x] [Replace Words](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
 - [ ] [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
-- [ ] [Word Search II](https://leetcode.com/problems/word-search-ii/)
 - [ ] [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
 
 ### Top K Elements
 
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
+- [ ] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+- [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+- [ ] [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
+- [ ] [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
+- [ ] [Reorganize String](https://leetcode.com/problems/reorganize-string/)
+- [ ] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+- [ ] [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)
 
 ### K-way Merge
 
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
+- [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [ ] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [ ] [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+- [ ] [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 
 ### 2 Heaps
 
-- [ ] []()
-- [ ] []()
+- [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+- [ ] [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
 
 ### Graph
 
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
+- [ ] [Clone Graph](https://leetcode.com/problems/clone-graph/)
+- [ ] [Find if Path Exists in Graph - DFS](https://leetcode.com/problems/find-if-path-exists-in-graph/)
+- [ ] [Find if Path Exists in Graph - BFS](https://leetcode.com/problems/find-if-path-exists-in-graph/)
+- [ ] [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
+- [ ] [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
+- [ ] [Word Search](https://leetcode.com/problems/word-search/)
+- [ ] [Word Search II](https://leetcode.com/problems/word-search-ii/)
+- [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+- [ ] [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
+- [ ] [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
+- [ ] [01 Matrix](https://leetcode.com/problems/01-matrix/)
+- [ ] [Word Ladder](https://leetcode.com/problems/word-ladder/)
+- [ ] [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)
 
 ### Union-Find
 
-- [ ] []()
-- [ ] []()
+- [ ] [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
+- [ ] [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)
 
 ### Topological Sort
 
-- [ ] []()
-- [ ] []()
+- [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)
+- [ ] [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 
 ### Minimum Spanning Tree
 
@@ -206,6 +208,7 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 #### General
 
 - [ ] []()
+- [ ] [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
 - [ ] []()
 - [ ] []()
 - [ ] []()
