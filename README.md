@@ -168,57 +168,58 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 
 ### Minimum Spanning Tree
 
-- [ ] []()
+- [ ] [Min Cost to Connect All Points [Kruskal]](https://leetcode.com/problems/min-cost-to-connect-all-points/)
+- [ ] [Min Cost to Connect All Points [Prim]](https://leetcode.com/problems/min-cost-to-connect-all-points/)
 
 ### Single-Source-Shortest Path
 
-- [ ] []()
+- [ ] [Network Delay Time [Djisktra]](https://leetcode.com/problems/network-delay-time/)
+- [ ] [Network Delay Time [Bellman-ford]](https://leetcode.com/problems/network-delay-time/)
 
 ### Dynamic Programming
 
 #### 0/1 Knapsack
 
-- [ ] []()
-- [ ] []()
-- [ ] []()
+- [ ] [Target Sum](https://leetcode.com/problems/target-sum/)
+- [ ] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+- [ ] [House Robber](https://leetcode.com/problems/house-robber/)
 
 #### Unbound Knapsack
 
-- [ ] []()
-- [ ] []()
+- [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
+- [ ] [Coin Change II](https://leetcode.com/problems/coin-change-ii/)
 
 #### Fibonacci
 
-- [ ] []()
-- [ ] []()
+- [ ] [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+- [ ] [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 
 #### Longest Palindromic Subsequence (LPS)
 
-- [ ] []()
-- [ ] []()
-- [ ] []()
+- [ ] [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
+- [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+- [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 
 #### Longest Common Subsequence (LCS)
 
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
+- [ ] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+- [ ] [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)
+- [ ] [Edit Distance](https://leetcode.com/problems/edit-distance/)
+- [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 
 #### General
 
-- [ ] []()
+- [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)
+- [ ] [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+- [ ] [Triangle](https://leetcode.com/problems/triangle/)
+- [ ] [Word Break](https://leetcode.com/problems/word-break/)
+- [ ] [Word Break II](https://leetcode.com/problems/word-break-ii/)
+- [ ] [Concatenated Words](https://leetcode.com/problems/concatenated-words/)
 - [ ] [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
 
 ### Bitwise
 
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
+- [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+- [ ] [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
+- [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/)
+- [ ] [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)
