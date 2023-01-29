@@ -119,7 +119,7 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 
 ### Top K Elements
 
-- [ ] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [x] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 - [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [ ] [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
