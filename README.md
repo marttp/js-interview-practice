@@ -115,7 +115,7 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 - [x] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [x] [Replace Words](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
 - [x] [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
-- [ ] [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
+- [x] [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
 
 ### Top K Elements
 
