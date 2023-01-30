@@ -1,3 +1,4 @@
+const { MinPriorityQueue } = require("@datastructures-js/priority-queue");
 /**
  * @param {number[]} nums
  * @param {number} k
