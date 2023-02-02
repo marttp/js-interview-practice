@@ -124,9 +124,8 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 - [x] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 - [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [x] [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
-- [ ] [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
-- [ ] [Reorganize String](https://leetcode.com/problems/reorganize-string/)
-- [ ] [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)
+- [x] [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
+- [x] [Reorganize String](https://leetcode.com/problems/reorganize-string/)
 
 ### K-way Merge
 
