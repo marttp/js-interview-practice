@@ -136,7 +136,7 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 
 ### 2 Heaps
 
-- [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+- [x] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
 ### Graph
 
