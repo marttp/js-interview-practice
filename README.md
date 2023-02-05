@@ -132,12 +132,11 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [x] [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
-- [ ] [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+- [x] [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 
 ### 2 Heaps
 
 - [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
-- [ ] [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
 
 ### Graph
 
