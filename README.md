@@ -144,7 +144,7 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 - [x] [Find if Path Exists in Graph - DFS](https://leetcode.com/problems/find-if-path-exists-in-graph/)
 - [x] [Find if Path Exists in Graph - BFS](https://leetcode.com/problems/find-if-path-exists-in-graph/)
 - [x] [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
-- [ ] [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
+- [x] [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
 - [ ] [Word Search](https://leetcode.com/problems/word-search/)
 - [ ] [Word Search II](https://leetcode.com/problems/word-search-ii/)
 - [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
