@@ -146,7 +146,7 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 - [x] [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
 - [x] [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
 - [x] [Word Search](https://leetcode.com/problems/word-search/)
-- [ ] [Word Search II](https://leetcode.com/problems/word-search-ii/)
+- [x] [Word Search II](https://leetcode.com/problems/word-search-ii/)
 - [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - [ ] [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
 - [ ] [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
