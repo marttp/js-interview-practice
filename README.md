@@ -150,7 +150,7 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 - [x] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - [x] [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
 - [x] [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
-- [ ] [01 Matrix](https://leetcode.com/problems/01-matrix/)
+- [x] [01 Matrix](https://leetcode.com/problems/01-matrix/)
 - [ ] [Word Ladder](https://leetcode.com/problems/word-ladder/)
 - [ ] [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)
 
