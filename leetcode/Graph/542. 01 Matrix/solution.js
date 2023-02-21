@@ -1,3 +1,4 @@
+const { Queue } = require('@datastructures-js/queue');
 /**
  * @param {number[][]} mat
  * @return {number[][]}
