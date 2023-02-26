@@ -155,7 +155,7 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 
 ### Union-Find
 
-- [ ] [Find if Path Exists in Graph - Union Find](https://leetcode.com/problems/find-if-path-exists-in-graph/)
+- [x] [Find if Path Exists in Graph - Union Find](https://leetcode.com/problems/find-if-path-exists-in-graph/)
 - [ ] [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
 - [ ] [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)
 
