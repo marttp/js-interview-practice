@@ -157,7 +157,7 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 
 - [x] [Find if Path Exists in Graph - Union Find](https://leetcode.com/problems/find-if-path-exists-in-graph/)
 - [x] [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
-- [ ] [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)
+- [x] [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)
 
 ### Topological Sort
 
