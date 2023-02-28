@@ -161,8 +161,8 @@ Hi everyone, this repository is used for storing the solutions for Leetcode in J
 
 ### Topological Sort
 
-- [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)
-- [ ] [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+- [x] [Course Schedule](https://leetcode.com/problems/course-schedule/)
+- [x] [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 
 ### Minimum Spanning Tree
 
