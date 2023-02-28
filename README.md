@@ -1,12 +1,12 @@
-# ไอต้าวแว่นทำ Leetcode - JS Special Editions
+# ไอต้าวแว่นทำ LeetCode - JS Special Editions
 
-Hi everyone, this repository is used for storing the solutions for Leetcode in Javascript. The support resources for my video playlist for support learners.
+Hi everyone, this repository is used for storing the solutions for LeetCode in Javascript. The support resources for my video playlist for support learners.
 
 ## Video Playlist
 
-[![ไอต้าวแว่นทำ Leetcode - Tackle JS Special Editions](https://img.youtube.com/vi/IWZhdcGAXRA/0.jpg)](https://youtube.com/playlist?list=PLm3A9eDaMzukbLKitQWP_ydRmnQj8jpd9)
+[![ไอต้าวแว่นทำ LeetCode - Tackle JS Special Editions](https://img.youtube.com/vi/IWZhdcGAXRA/0.jpg)](https://youtube.com/playlist?list=PLm3A9eDaMzukbLKitQWP_ydRmnQj8jpd9)
 
-## Leetcode questions by pattern
+## LeetCode questions by pattern
 
 ### Array & HashTable
 
