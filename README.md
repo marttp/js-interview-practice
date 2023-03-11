@@ -167,7 +167,7 @@ Hi everyone, this repository is used for storing the solutions for LeetCode in J
 ### Minimum Spanning Tree
 
 - [x] [Min Cost to Connect All Points [Kruskal]](https://leetcode.com/problems/min-cost-to-connect-all-points/)
-- [ ] [Min Cost to Connect All Points [Prim]](https://leetcode.com/problems/min-cost-to-connect-all-points/)
+- [x] [Min Cost to Connect All Points [Prim]](https://leetcode.com/problems/min-cost-to-connect-all-points/)
 
 ### Single-Source-Shortest Path
 
