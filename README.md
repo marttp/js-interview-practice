@@ -34,8 +34,8 @@ Hi everyone, this repository is used for storing the solutions for LeetCode in J
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [x] [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
-- [x] [Reverse Words in a String III](https://leetcode.com/problems/group-anagrams/)
-- [x] [Group Anagrams](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
+- [x] [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
+- [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
 ### Linked List
 
